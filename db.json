@@ -1,294 +1,749 @@
 {
-  "data": [
-      {
-        "_id": "6425aedf14266086e75a4cc2",
-        "title": "Computer Fundamental",
-        "description": "Basic Fundamental Question",
-        "time": 90,
-        "totalMarks": 30,
-        "subject": "computer",
-        "category": "fundamental",
-        "status":true,
-        "questions": [
-          {
-            "question": "What is Computer",
-            "option1": "machine",
-            "option2": "calculator",
-            "option3": "game",
-            "option4": "software",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is computer",
-            "_id": "6425aedf14266086e75a4cc3"
-          },
-          {
-            "question": "What is RAM?",
-            "option1": "Random Access Memory",
-            "option2": "Read-Only Memory",
-            "option3": "Secondary Memory",
-            "option4": "Cache Memory",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is a type of memory that can be accessed randomly.",
-            "_id": "6425aedf14266086e75a4cc4"
-          },
-          {
-            "question": "What is a CPU?",
-            "option1": "Central Processing Unit",
-            "option2": "Central Power Unit",
-            "option3": "Computer Processing Unit",
-            "option4": "Computer Power Unit",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is the brain of the computer.",
-            "_id": "6425aedf14266086e75a4cc5"
-          },
-          {
-            "question": "What is an Operating System?",
-            "option1": "Software that manages computer hardware and software resources",
-            "option2": "Software that manages computer games",
-            "option3": "Software that manages computer peripherals",
-            "option4": "Software that manages computer graphics",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is the software that manages computer hardware and software resources.",
-            "_id": "6425aedf14266086e75a4cc6"
-          },
-          {
-            "question": "What is a file?",
-            "option1": "A collection of data or information that has a name, called a filename",
-            "option2": "A device used to store data",
-            "option3": "A device used to display data",
-            "option4": "A device used to input data",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is a collection of data or information that has a name, called a filename.",
-            "_id": "6425aedf14266086e75a4cc7"
-          },
-          {
-            "question": "What is a motherboard?",
-            "option1": "The main circuit board in a computer that connects all the components",
-            "option2": "The physical case that contains the computer components",
-            "option3": "The part of the computer that produces sound",
-            "option4": "The component that controls the computer's power supply",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is the main circuit board in a computer that connects all the components.",
-            "_id": "6425aedf14266086e75a4cc8"
-          },
-          {
-            "question": "What is a peripheral?",
-            "option1": "An external device that connects to a computer and expands its capabilities",
-            "option2": "A type of software that runs on a computer",
-            "option3": "A type of processor found in computers",
-            "option4": "A component of a computer that stores data",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is a collection of data or information that has a name, called a filename.",
-            "_id": "6425aedf14266086e75a4cc9"
-          },
-          {
-            "question": "What is the difference between hardware and software?",
-            "option1": "Hardware is the physical components of a computer while software is the set of instructions that tell the hardware what to do.",
-            "option2": "Hardware is the set of instructions that tell the computer what to do while software is the physical components of a computer.",
-            "option3": "Hardware and software are the same thing.",
-            "option4": "Hardware and software are not related to computers.",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "Hardware is physical components and software is a set of instructions.",
-            "_id": "6425aedf14266086e75a4cca"
-          },
-          {
-            "question": "What is a byte?",
-            "option1": "A unit of measurement for computer storage",
-            "option2": "A type of computer virus",
-            "option3": "A type of computer peripheral",
-            "option4": "A type of computer game",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is a unit of measurement for computer storage.",
-            "_id": "6425aedf14266086e75a4ccb"
-          },
-          {
-            "question": "What is a network?",
-            "option1": "A group of two or more computer systems linked together",
-            "option2": "A type of software",
-            "option3": "A type of computer virus",
-            "option4": "A type of computer game",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is a group of two or more computer systems linked together.",
-            "_id": "6425aedf14266086e75a4ccc"
-          },
-          {
-            "question": "What is a web browser?",
-            "option1": "A software application used to access and view websites",
-            "option2": "A hardware device used to view websites",
-            "option3": "A type of computer virus",
-            "option4": "A type of computer game",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is a software application used to access and view websites.",
-            "_id": "6425aedf14266086e75a4ccd"
-          },
-          {
-            "question": "What is a URL?",
-            "option1": "Uniform Resource Locator",
-            "option2": "Unified Resource Locator",
-            "option3": "Unit Resource Locator",
-            "option4": "Unique Resource Locator",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It stands for Uniform Resource Locator.",
-            "_id": "6425aedf14266086e75a4cce"
-          },
-          {
-            "question": "What is an email?",
-            "option1": "Electronic mail",
-            "option2": "Electric mail",
-            "option3": "Ethernet mail",
-            "option4": "Enveloped mail",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It stands for Electronic mail.",
-            "_id": "6425aedf14266086e75a4ccf"
-          },
-          {
-            "question": "What is a mouse?",
-            "option1": "A pointing device used to move the cursor on a computer screen",
-            "option2": "A type of computer virus",
-            "option3": "A type of computer game",
-            "option4": "A type of computer peripheral",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is a pointing device used to move the cursor on a computer screen.",
-            "_id": "6425aedf14266086e75a4cd0"
-          }
-        ],
-        "__v": 0
-      },
-      {
-        "_id": "6425b08814266086e75a4cd2",
-        "title": "Internet Basics",
-        "description": "Test your knowledge of basic internet concepts",
-        "time": 60,
-        "totalMarks": 40,
-        "subject": "computer",
-        "category": "internet",
-        "status":true,
-        "questions": [
-          {
-            "question": "What does the term 'URL' stand for?",
-            "option1": "Universal Resource Locator",
-            "option2": "United Resource Listing",
-            "option3": "User Research Library",
-            "option4": "Ultimate Research Link",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It's a way of identifying a web page.",
-            "_id": "6425b08814266086e75a4cd3"
-          },
-          {
-            "question": "What does the term 'HTML' stand for?",
-            "option1": "Hypertext Markup Language",
-            "option2": "Hyperlink Text Markup Library",
-            "option3": "High Traffic Main Loop",
-            "option4": "Hyperlink Transfer Method",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It's the standard language used to create web pages.",
-            "_id": "6425b08814266086e75a4cd4"
-          },
-          {
-            "question": "What is a 'cookie'?",
-            "option1": "A small file that a website stores on your computer to remember information about you",
-            "option2": "A type of virus that spreads through email",
-            "option3": "A type of computer program that plays music",
-            "option4": "A type of computer game",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It's a way for websites to remember your preferences.",
-            "_id": "6425b08814266086e75a4cd5"
-          },
-          {
-            "question": "What is an 'IP address'?",
-            "option1": "A unique identifier assigned to every device connected to the internet",
-            "option2": "A type of email address",
-            "option3": "A type of website domain name",
-            "option4": "A type of computer virus",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It's like a phone number for your device on the internet.",
-            "_id": "6425b08814266086e75a4cd6"
-          },
-          {
-            "question": "What is a 'search engine'?",
-            "option1": "A website that allows you to search for information on the internet",
-            "option2": "A type of computer virus",
-            "option3": "A type of computer game",
-            "option4": "A type of internet service provider",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It's a tool to help you find what you're looking for on the internet.",
-            "_id": "6425b08814266086e75a4cd7"
-          },
-          {
-            "question": "What is 'bandwidth'?",
-            "option1": "The amount of data that can be transmitted over an internet connection in a given time",
-            "option2": "The amount of money you pay for internet service",
-            "option3": "The speed at which data travels over an internet connection",
-            "option4": "The maximum number of devices that can connect to an internet connection at once",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It affects how fast your internet connection is.",
-            "_id": "6425b08814266086e75a4cd8"
-          },
-          {
-            "question": "What is a 'firewall'?",
-            "option1": "A security system that monitors and controls incoming and outgoing network traffic",
-            "option2": "A type of computer virus",
-            "option3": "A type of computer game",
-            "option4": "A type of computer program that displays advertisements",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It helps protect your computer from malicious attacks.",
-            "_id": "6425b08814266086e75a4cd9"
-          },
-          {
-            "question": "What is a 'modem'?",
-            "option1": "A device that connects your computer to the internet",
-            "option2": "A type of computer virus",
-            "option3": "A type of computer program that creates graphics",
-            "option4": "A type of computer game",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It converts digital data to a signal that can be transmitted over telephone or cable lines.",
-            "_id": "6425b08814266086e75a4cda"
-          },
-          {
-            "question": "What is 'Wi-Fi'?",
-            "option1": "A wireless networking technology that allows devices to connect to the internet",
-            "option2": "A type of computer virus",
-            "option3": "A type of computer program that creates documents",
-            "option4": "A type of computer game",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It allows you to connect to the internet without cables.",
-            "_id": "6425b08814266086e75a4cdb"
-          },
-          {
-            "question": "What is 'phishing'?",
-            "option1": "A type of online scam where criminals try to trick you into revealing personal information",
-            "option2": "A type of computer virus",
-            "option3": "A type of computer program that plays music",
-            "option4": "A type of computer game",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It's important to be cautious of suspicious emails and websites.",
-            "_id": "6425b08814266086e75a4cdc"
-          }
-        ],
-        "__v": 0
-      }
-    ]
-  }
+  "destinations": [
+    {
+      "destination": "Goa",
+      "details": "Goa is a state in western India with coastlines stretching along the Arabian Sea Goa is also known for its beaches, ranging from popular stretches at Baga and",
+      "id": "11",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f0/goa.jpg?w=1400&h=900&s=1"
+    },
+    {
+      "destination": "Maldives",
+      "details": "The Maldives, officially the Republic of Maldives, is an archipelagic state in South Asia, situated in the Indian Ocean. ",
+      "id": "22",
+      "image": "https://media.istockphoto.com/id/153006184/photo/maldives-villa-piles-on-water.jpg?s=612x612&w=0&k=20&c=YEwre6THY_VD_yIfHOAIBB_j-tIMYBNjMWDm5SXHIOQ="
+    },
+    {
+      "destination": "Paris",
+      "details": "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture.",
+      "id": "33",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/1280px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg"
+    },
+    {
+      "destination": "Kashmir",
+      "details": "Jammu and Kashmir is a region administered by India as a union territory and consists of the southern portion of the larger Kashmir region,",
+      "id": "44",
+      "image": "https://gumlet.assettype.com/greaterkashmir%2F2023-01%2Ffde9c477-f71f-4d33-8a70-853f0964f225%2Fsnow.jpg?format=auto"
+    },
+    {
+      "destination": "Himachal Pradesh",
+      "details": "Himachal Pradesh is a northern Indian state in the Himalayas. It's home to scenic mountain towns and resorts such as Dalhousie.",
+      "id": "55",
+      "image": "https://static.toiimg.com/photo/93246451.cms"
+    },
+    {
+      "destination": "Ooty",
+      "details": "Ooty (short for Udhagamandalam) is a resort town in the Western Ghats mountains, in southern India's Tamil Nadu state.",
+      "id": "66",
+      "image": "https://lh5.googleusercontent.com/p/AF1QipNVl4GmhoeBkLw9kVXLPL1ddYrLh6WUNKKo96Uw=w548-h318-n-k-no"
+    },
+    {
+      "destination": "Dubai",
+      "details": "The Burj Khalifa, known as the Burj Dubai prior to its inauguration in 2010, is a skyscraper in Dubai",
+      "id": "77",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipMNJJHkJLU7Ri-rUoV7OK6MKWIAEcXGQsEydLNZ=s1360-w1360-h1020"
+    },
+    {
+      "destination": "London",
+      "details": "London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times.",
+      "id": "88",
+      "image": "https://gumlet.assettype.com/greaterkashmir%2F2023-01%2Ffde9c477-f71f-4d33-8a70-853f0964f225%2Fsnow.jpg?format=auto"
+    },
+    {
+      "destination": "Fuket",
+      "details": "Phuket, a rainforested, mountainous island in the Andaman Sea, has some of Thailand’s most popular beaches",
+      "id": "99",
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQNPZ-bB_6_4mMEU62hlnKU02QKslGHgwe5er5Rtqp16mb8aYy6BkHh6dPmBeUP2qkeNqDB2qqbkc_MsKhu8nZfxDancg"
+    },
+    {
+      "destination": "Kashmir",
+      "details": "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture.",
+      "id": "1010",
+      "image": "https://gumlet.assettype.com/greaterkashmir%2F2023-01%2Ffde9c477-f71f-4d33-8a70-853f0964f225%2Fsnow.jpg?format=auto"
+    }
+  ],
+  "accommodations": [
+    {
+      "person_image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Sundar Pichai",
+      "ownerShip": "rent",
+      "id": 1,
+      "destination_id": 11,
+      "address": "123 Main Street, Mumbai",
+      "price": 100,
+      "type": "hotel",
+      "rating": 4.5,
+      "guestAllowed": 2,
+      "amenities": [
+        "Free Wi-Fi",
+        "Swimming pool",
+        "24-hour room service",
+        "Fitness center"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "owner",
+      "id": 2,
+      "destination_id": 11,
+      "address": "456 Elm Street, Jaipur",
+      "price": 80,
+      "type": "guest house",
+      "rating": 4.0,
+      "guestAllowed": 4,
+      "amenities": [
+        "Free breakfast",
+        "Garden",
+        "Air conditioning",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Sundar Pichai",
+      "ownerShip": "owner",
+      "id": 3,
+      "destination_id": 11,
+      "address": "789 Oak Street, Goa",
+      "price": 120,
+      "rating": 4.8,
+      "guestAllowed": 3,
+      "amenities": [
+        "Private beach",
+        "Spa",
+        "Restaurant",
+        "Bar"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "rent",
+      "id": 4,
+      "destination_id": 22,
+      "address": "101 Main Road, Delhi",
+      "price": 70,
+      "type": "resort",
+      "rating": 3.5,
+      "guestAllowed": 1,
+      "amenities": [
+        "Shared kitchen",
+        "Common room",
+        "Laundry facilities",
+        "Lockers"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "owner",
+      "id": 5,
+      "destination_id": 11,
+      "address": "55 Park Avenue, Bengaluru",
+      "price": 150,
+      "type": "guest house",
+      "rating": 4.7,
+      "guestAllowed": 6,
+      "amenities": [
+        "Fully equipped kitchen",
+        "Washing machine",
+        "Balcony",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Sundar Pichai",
+      "ownerShip": "rent",
+      "id": 6,
+      "destination_id": 22,
+      "address": "7 Hill Road, Lonavala",
+      "price": 200,
+      "type": "Villa",
+      "rating": 4.9,
+      "guestAllowed": 8,
+      "amenities": [
+        "Private pool",
+        "Jacuzzi",
+        "BBQ grill",
+        "Garden"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/1121796/pexels-photo-1121796.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "",
+      "id": 7,
+      "destination_id": 22,
+      "address": "22 Sea View Road, Mahabalipuram",
+      "price": 90,
+      "type": "guest house",
+      "rating": 4.2,
+      "guestAllowed": 2,
+      "amenities": [
+        "Beachfront location",
+        "Outdoor shower",
+        "Hammock",
+        "Restaurant"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "owner",
+      "id": 9,
+      "destination_id": 33,
+      "address": "12 Lake View Road, Udaipur",
+      "price": 180,
+      "type": "Villa",
+      "rating": 4.6,
+      "guestAllowed": 2,
+      "amenities": [
+        "Lake view",
+        "Rooftop terrace",
+        "Restaurant",
+        "Spa"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "rent",
+      "id": 10,
+      "destination_id": 33,
+      "address": "33 Mountain Road, Manali",
+      "price": 120,
+      "type": "guest house",
+      "rating": 4.3,
+      "guestAllowed": 4,
+      "amenities": [
+        "Mountain view",
+        "Fireplace",
+        "Outdoor seating",
+        "Kitchenette"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/718261/pexels-photo-718261.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "owner",
+      "id": 11,
+      "destination_id": 11,
+      "address": "1 Ocean View, Kochi",
+      "price": 100,
+      "type": "villa",
+      "rating": 4.2,
+      "guestAllowed": 2,
+      "amenities": [
+        "Free breakfast",
+        "Sea view",
+        "Garden",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Sundar Pichai",
+      "ownerShip": "rent",
+      "id": 12,
+      "destination_id": 22,
+      "address": "2 Heritage Road, Jaisalmer",
+      "price": 150,
+      "type": "resort",
+      "rating": 4.7,
+      "guestAllowed": 2,
+      "amenities": [
+        "Swimming pool",
+        "Restaurant",
+        "Bar",
+        "Library"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "owner",
+      "id": 13,
+      "destination_id": 11,
+      "address": "3 Forest Lane, Coorg",
+      "price": 80,
+      "type": "resort",
+      "rating": 4.1,
+      "guestAllowed": 2,
+      "amenities": [
+        "Forest view",
+        "Balcony",
+        "Outdoor seating",
+        "Coffee maker"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/1121796/pexels-photo-1121796.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "owner",
+      "ownerShip": "rent",
+      "id": 14,
+      "destination_id": 11,
+      "address": "4 Hilltop Road, Munnar",
+      "price": 120,
+      "type": "Cottage",
+      "rating": 4.5,
+      "guestAllowed": 4,
+      "amenities": [
+        "Mountain view",
+        "Fireplace",
+        "Kitchen",
+        "Garden"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/774095/pexels-photo-774095.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Sundar Pichai",
+      "ownerShip": "owner",
+      "id": 15,
+      "destination_id": 22,
+      "address": "5 Riverfront Drive, Varanasi",
+      "price": 70,
+      "type": "hotel",
+      "rating": 4.0,
+      "guestAllowed": 2,
+      "amenities": [
+        "River view",
+        "Sun deck",
+        "Restaurant",
+        "Bar"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/1121796/pexels-photo-1121796.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "rent",
+      "id": 16,
+      "destination_id": 99,
+      "address": "6 Beach Road, Kovalam",
+      "price": 180,
+      "type": "villa",
+      "rating": 4.9,
+      "guestAllowed": 2,
+      "amenities": [
+        "Beachfront location",
+        "Infinity pool",
+        "Spa",
+        "Restaurant"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/718261/pexels-photo-718261.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Saanvi",
+      "ownerShip": "rent",
+      "id": 17,
+      "destination_id": 33,
+      "address": "7 Tea Estate Lane, Darjeeling",
+      "price": 100,
+      "type": "resort",
+      "rating": 4.3,
+      "guestAllowed": 2,
+      "amenities": [
+        "Tea garden view",
+        "Free breakfast",
+        "Kitchen",
+        "Garden"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/718261/pexels-photo-718261.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Saanvi",
+      "ownerShip": "rent",
+      "id": 18,
+      "destination_id": 88,
+      "address": "8 Valley View Road, Leh",
+      "price": 150,
+      "type": "guest house",
+      "rating": 4.2,
+      "guestAllowed": 2,
+      "amenities": [
+        "Mountain view",
+        "Free breakfast",
+        "Outdoor seating",
+        "Garden"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/837306/pexels-photo-837306.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Sundar Pichai",
+      "ownerShip": "rent",
+      "id": 19,
+      "destination_id": 77,
+      "address": "9 River Road, Rishikesh",
+      "price": 80,
+      "type": "Cottage",
+      "rating": 3.9,
+      "guestAllowed": 1,
+      "amenities": [
+        "River view",
+        "Shared kitchen",
+        "Free breakfast",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/718261/pexels-photo-718261.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Andy",
+      "ownerShip": "owner",
+      "id": 20,
+      "destination_id": 99,
+      "address": "10 Desert Road, Jodhpur",
+      "price": 120,
+      "type": "Cottage",
+      "rating": 4.5,
+      "guestAllowed": 2,
+      "amenities": [
+        "Courtyard",
+        "Rooftop terrace",
+        "Restaurant",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "owner",
+      "id": 21,
+      "destination_id": 11,
+      "address": "11 Valley Road, Shimla",
+      "price": 90,
+      "type": "Villa",
+      "rating": 4.1,
+      "guestAllowed": 2,
+      "amenities": [
+        "Mountain view",
+        "Balcony",
+        "Free breakfast",
+        "Garden"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/837306/pexels-photo-837306.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Andy",
+      "ownerShip": "rent",
+      "id": 22,
+      "destination_id": 66,
+      "address": "12 Fort Road, Jaisalmer",
+      "price": 180,
+      "rating": 4.7,
+      "guestAllowed": 2,
+      "amenities": [
+        "Fort view",
+        "Swimming pool",
+        "Restaurant",
+        "Bar"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "rent",
+      "id": 23,
+      "destination_id": 33,
+      "address": "13 Beachfront Drive, Goa",
+      "price": 150,
+      "type": "guest house",
+      "rating": 4.6,
+      "guestAllowed": 2,
+      "amenities": [
+        "Beachfront location",
+        "Swimming pool",
+        "Spa",
+        "Restaurant"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/774095/pexels-photo-774095.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Andy",
+      "ownerShip": "rent",
+      "id": 24,
+      "destination_id": 77,
+      "address": "14 Jungle Trail, Bandhavgarh",
+      "price": 100,
+      "type": "Cottage",
+      "rating": 4.4,
+      "guestAllowed": 2,
+      "amenities": [
+        "Jungle view",
+        "Wildlife safaris",
+        "Outdoor seating",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/837306/pexels-photo-837306.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "rent",
+      "id": 25,
+      "destination_id": 88,
+      "address": "15 Lakeside Drive, Nainital",
+      "price": 120,
+      "type": "resort",
+      "rating": 4.3,
+      "guestAllowed": 2,
+      "amenities": [
+        "Lake view",
+        "Boating",
+        "Restaurant",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "owner",
+      "id": 26,
+      "destination_id": 33,
+      "address": "16 Hilltop Road, Ooty",
+      "price": 110,
+      "type": "hotel",
+      "rating": 4.2,
+      "guestAllowed": 2,
+      "amenities": [
+        "Hill view",
+        "Outdoor seating",
+        "Free breakfast",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/837306/pexels-photo-837306.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Andy",
+      "ownerShip": "rent",
+      "id": 27,
+      "destination_id": 77,
+      "address": "17 Riverfront Drive, Varanasi",
+      "price": 80,
+      "type": "Cottage",
+      "rating": 4.0,
+      "guestAllowed": 2,
+      "amenities": [
+        "River view",
+        "Outdoor seating",
+        "Free breakfast",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/774095/pexels-photo-774095.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "owner",
+      "id": 28,
+      "destination_id": 88,
+      "address": "18 Heritage Lane, Jaipur",
+      "price": 130,
+      "type": "Villa",
+      "rating": 4.6,
+      "guestAllowed": 2,
+      "amenities": [
+        "Heritage property",
+        "Swimming pool",
+        "Restaurant",
+        "Bar"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/713312/pexels-photo-713312.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "rent",
+      "id": 29,
+      "destination_id": 77,
+      "address": "19 Tea Estate Drive, Munnar",
+      "price": 90,
+      "type": "Cottage",
+      "rating": 4.3,
+      "guestAllowed": 2,
+      "amenities": [
+        "Tea garden view",
+        "Outdoor seating",
+        "Free breakfast",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/832998/pexels-photo-832998.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "owner",
+      "id": 30,
+      "destination_id": 77,
+      "address": "20 Riverside Drive, Coorg",
+      "price": 100,
+      "type": "guest house",
+      "rating": 4.5,
+      "guestAllowed": 2,
+      "amenities": [
+        "River view",
+        "Outdoor seating",
+        "Free breakfast",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "rent",
+      "id": 31,
+      "destination_id": 66,
+      "address": "21 Hillside Drive, Darjeeling",
+      "price": 120,
+      "type": "resort",
+      "rating": 4.7,
+      "guestAllowed": 2,
+      "amenities": [
+        "Mountain view",
+        "Outdoor seating",
+        "Free breakfast",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "rent",
+      "id": 32,
+      "destination_id": 66,
+      "address": "22 Beach Road, Goa",
+      "price": 150,
+      "type": "Cottage",
+      "rating": 4.8,
+      "guestAllowed": 2,
+      "amenities": [
+        "Beach access",
+        "Swimming pool",
+        "Restaurant",
+        "Bar"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/713312/pexels-photo-713312.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Sandy",
+      "ownerShip": "rent",
+      "id": 33,
+      "destination_id": 44,
+      "address": "23 Lakeside Drive, Nainital",
+      "price": 100,
+      "type": "hotel",
+      "rating": 4.5,
+      "guestAllowed": 2,
+      "amenities": [
+        "Lake view",
+        "Outdoor seating",
+        "Free breakfast",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Charlie",
+      "ownerShip": "rent",
+      "id": 34,
+      "destination_id": 44,
+      "address": "24 Vineyard Road, Nashik",
+      "price": 110,
+      "type": "resort",
+      "rating": 4.3,
+      "guestAllowed": 2,
+      "amenities": [
+        "Vineyard view",
+        "Outdoor seating",
+        "Free breakfast",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/832998/pexels-photo-832998.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Sandy",
+      "ownerShip": "owner",
+      "id": 35,
+      "destination_id": 1010,
+      "address": "25 Mountain Drive, Manali",
+      "price": 90,
+      "type": "Villa",
+      "rating": 4.2,
+      "guestAllowed": 2,
+      "amenities": [
+        "Mountain view",
+        "Outdoor seating",
+        "Free breakfast",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/713312/pexels-photo-713312.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "",
+      "ownerShip": "rent",
+      "id": 36,
+      "destination_id": 44,
+      "address": "26 Fort Road, Jaisalmer",
+      "price": 80,
+      "type": "Cottage",
+      "rating": 4.0,
+      "guestAllowed": 2,
+      "amenities": [
+        "Fort view",
+        "Outdoor seating",
+        "Free breakfast",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/718261/pexels-photo-718261.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Sandy",
+      "ownerShip": "rent",
+      "id": 37,
+      "destination_id": 55,
+      "address": "27 Riverfront Drive, Rishikesh",
+      "price": 120,
+      "type": "guest house",
+      "rating": 4.6,
+      "guestAllowed": 2,
+      "amenities": [
+        "River view",
+        "Swimming pool",
+        "Restaurant",
+        "Bar"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/713312/pexels-photo-713312.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Sandy",
+      "ownerShip": "rent",
+      "id": 38,
+      "destination_id": 44,
+      "address": "28 Tea Garden Road, Darjeeling",
+      "price": 130,
+      "type": "resort",
+      "rating": 4.7,
+      "guestAllowed": 2,
+      "amenities": [
+        "Tea garden view",
+        "Outdoor seating",
+        "Free breakfast",
+        "Free parking"
+      ]
+    },
+    {
+      "person_image": "https://images.pexels.com/photos/718261/pexels-photo-718261.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "person_name": "Sandy",
+      "ownerShip": "owner",
+      "id": 39,
+      "destination_id": 55,
+      "address": "29 City Centre, Mumbai",
+      "price": 180,
+      "type": "Villa",
+      "rating": 4.9,
+      "guestAllowed": 2,
+      "amenities": [
+        "City view",
+        "Swimming pool",
+        "Restaurant",
+        "Bar",
+        "Spa"
+      ]
+    }
+  ]
+}
